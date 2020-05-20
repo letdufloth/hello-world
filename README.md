@@ -1,5 +1,9 @@
 # hello-world
 
+## Análise de gráficos do Nexo Jornal sobre o uso de máscaras
+
+### Letícia Dufloth - XXXIX CSAP
+
 Os gráficos disponíveis neste [site](https://www.nexojornal.com.br/grafico/2020/05/15/A-efici%C3%AAncia-do-material-das-m%C3%A1scaras-segundo-este-estudo) foram realizados a partir da análise de um estudo de 2013 da Universidade de Cambridge, que verificou a disseminação de gotículas de acordo com o tipo de máscara utilizado por uma pessoa quando ela tossia. Essas informações são bastante relevantes para que saibamos as melhores máscaras a serem utilizadas no contexto atual, com o intuito de nos prevenirmos do coronavírus.
 
 A reportagem destaca que a eficácia das máscaras está relacionada a dois fatores principais:
